@@ -53,7 +53,8 @@ Each input combination displays the corresponding hexadecimal value (0–F) on t
 
 ## 🧩 Truth Table for 7-Segment Outputs
 
-Hex	A	B	C	D	E	F	G
+| Hex	| A	| B	| C | D	| E	| F	| G |
+|-----|---|---|---|---|---|---|---|
 0	0	0	0	0	0	0	1
 1	1	0	0	1	1	1	1
 2	0	0	1	0	0	1	0
