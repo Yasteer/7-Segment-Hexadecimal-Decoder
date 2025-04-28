@@ -78,6 +78,7 @@ Each input combination displays the corresponding hexadecimal value (0–F) on t
 
 > - 1 = Segment OFF (for common anode displays)
 
+> - Circuits designed using the Sum of Products (SOP) method of Boolean algebra where each term is a product of input variables or their complements & the final output is the sum of all these terms.
 ---
 
 ## 🖼️ Screenshot of the Circuit
@@ -122,6 +123,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-👤 Author
-Created by Yasteer Sewpersad
-Electronic Engineering Portfolio of Evidence
+## 👤 Author
+- Created by Yasteer Sewpersad
+- Electronic Engineering Portfolio of Evidence
