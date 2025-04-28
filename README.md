@@ -98,11 +98,9 @@ Each input combination displays the corresponding hexadecimal value (0–F) on t
 ## 🚀 How to Use
 - Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Yasteer/7-Segment-Hexadecimal-Decoder.git
-- Open the project file on CircuitVerse.
+  > git clone https://github.com/Yasteer/7-Segment-Hexadecimal-Decoder.git
+  
+- Open the project file on CircuitVerse (.cv format).
 
 - Simulate by toggling the input switches (D0–D3) and observe the 7-segment output.
 
@@ -124,6 +122,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## 🎯
-
-> 🛠️ This project forms part of my Portfolio of Evidence in Electronic Engineering.
+👤 Author
+Created by Yasteer Sewpersad
+Electronic Engineering Portfolio of Evidence
