@@ -7,22 +7,22 @@ It was designed, built, and simulated using CircuitVerse.org.
 ---
 
 ## ✨ Features
-🔌 Fully functional 4-bit binary to hexadecimal decoder.
+- 🔌 Fully functional 4-bit binary to hexadecimal decoder.
 
-🔥 Designed for a common anode 7-segment display (LOW = segment ON).
+- 🔥 Designed for a common anode 7-segment display (LOW = segment ON).
 
-🧠 Optimized logic design to reduce unnecessary gate usage.
+- 🧠 Optimized logic design to reduce unnecessary gate usage.
 
-🖥️ Fully tested and simulated using CircuitVerse.
+- 🖥️ Fully tested and simulated using CircuitVerse.
 
 ---
 
 ## ⚡ How It Works
-Inputs: Four binary inputs (D0-D3).
+- Inputs: Four binary inputs (D0-D3).
 
-Logic gates: Combination of AND, OR, and NOT gates.
+- Logic gates: Combination of AND, OR, and NOT gates.
 
-Outputs: Seven control signals (segments A–G) to display the correct hexadecimal value.
+- Outputs: Seven control signals (segments A–G) to display the correct hexadecimal value.
 
 Each input combination displays the corresponding hexadecimal value (0–F) on the 7-segment display.
 
@@ -69,11 +69,11 @@ C	0	1	1	0	0	0	1
 D	1	0	0	0	0	1	0
 E	0	1	1	0	0	0	0
 F	0	1	1	1	0	0	0
-Note:
+> Note:
 
-0 = Segment ON
+> - 0 = Segment ON
 
-1 = Segment OFF (for common anode displays)
+> - 1 = Segment OFF (for common anode displays)
 
 ---
 
@@ -82,33 +82,33 @@ Note:
 ---
 
 ## 🛠️ Technologies Used
-CircuitVerse.org — for digital circuit design and simulation.
+- CircuitVerse.org — for digital circuit design and simulation.
 
-GitHub — for project hosting and version control.
+- GitHub — for project hosting and version control.
 
-Logic design based on electronic engineering principles.
+- Logic design based on electronic engineering principles.
 
 ---
 
 ## 🚀 How to Use
-Clone the repository:
+- Clone the repository:
 
 bash
 Copy
 Edit
 git clone https://github.com/Yasteer/7-Segment-Hexadecimal-Decoder.git
-Open the project file on CircuitVerse.
+- Open the project file on CircuitVerse.
 
-Simulate by toggling the input switches (D0–D3) and observe the 7-segment output.
+- Simulate by toggling the input switches (D0–D3) and observe the 7-segment output.
 
 ---
 
 ## 🔮 Future Improvements
-Build a common cathode version.
+> Build a common cathode version.
 
-Further optimize logic gates using Karnaugh Maps.
+> Further optimize logic gates using Karnaugh Maps.
 
-Construct and test the design on a physical breadboard with ICs.
+> Construct and test the design on a physical breadboard with ICs.
 
 ---
 
