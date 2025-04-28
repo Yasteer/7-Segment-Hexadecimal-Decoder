@@ -1,10 +1,12 @@
-🔢 7-Segment Hexadecimal Decoder
+## 🔢 7-Segment Hexadecimal Decoder
 This project implements a 4-bit binary to hexadecimal decoder using basic logic gates to drive a common anode 7-segment display.
 It was designed, built, and simulated using CircuitVerse.org.
 
-🛠️ This project forms part of my Portfolio of Evidence in Electronic Engineering.
+> 🛠️ This project forms part of my Portfolio of Evidence in Electronic Engineering.
 
-✨ Features
+---
+
+## ✨ Features
 🔌 Fully functional 4-bit binary to hexadecimal decoder.
 
 🔥 Designed for a common anode 7-segment display (LOW = segment ON).
@@ -13,7 +15,9 @@ It was designed, built, and simulated using CircuitVerse.org.
 
 🖥️ Fully tested and simulated using CircuitVerse.
 
-⚡ How It Works
+---
+
+## ⚡ How It Works
 Inputs: Four binary inputs (D0-D3).
 
 Logic gates: Combination of AND, OR, and NOT gates.
@@ -22,7 +26,9 @@ Outputs: Seven control signals (segments A–G) to display the correct hexadecim
 
 Each input combination displays the corresponding hexadecimal value (0–F) on the 7-segment display.
 
-🧮 4-Bit Binary to Hexadecimal Table
+---
+
+## 🧮 4-Bit Binary to Hexadecimal Table
 
 D3	D2	D1	D0	Hexadecimal Output
 0	0	0	0	0
@@ -41,7 +47,10 @@ D3	D2	D1	D0	Hexadecimal Output
 1	1	0	1	D
 1	1	1	0	E
 1	1	1	1	F
-🧩 Truth Table for 7-Segment Outputs
+
+---
+
+## 🧩 Truth Table for 7-Segment Outputs
 
 Hex	A	B	C	D	E	F	G
 0	0	0	0	0	0	0	1
@@ -66,16 +75,22 @@ Note:
 
 1 = Segment OFF (for common anode displays)
 
-🖼️ Screenshot of the Circuit
+---
 
-🛠️ Technologies Used
+## 🖼️ Screenshot of the Circuit
+
+---
+
+## 🛠️ Technologies Used
 CircuitVerse.org — for digital circuit design and simulation.
 
 GitHub — for project hosting and version control.
 
 Logic design based on electronic engineering principles.
 
-🚀 How to Use
+---
+
+## 🚀 How to Use
 Clone the repository:
 
 bash
@@ -86,14 +101,20 @@ Open the project file on CircuitVerse.
 
 Simulate by toggling the input switches (D0–D3) and observe the 7-segment output.
 
-🔮 Future Improvements
+---
+
+## 🔮 Future Improvements
 Build a common cathode version.
 
 Further optimize logic gates using Karnaugh Maps.
 
 Construct and test the design on a physical breadboard with ICs.
 
-📜 License
+---
+
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🎯
+---
+
+## 🎯
