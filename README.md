@@ -13,7 +13,7 @@ It was designed, built, and simulated using CircuitVerse.org.
 
 - 🖥️ Fully tested and simulated using CircuitVerse.
 
-![Circuit Demo](AnalogSpeedControllerDemo.gif)
+![Circuit Demo](4-Bit-Binary-To-Hexadecimal-Convertor-Demo.gif)
 
 ---
 
@@ -81,6 +81,8 @@ Each input combination displays the corresponding hexadecimal value (0–F) on t
 ---
 
 ## 🖼️ Screenshot of the Circuit
+
+![Circuit Diagram](Full-Circuit.png)
 
 ---
 
