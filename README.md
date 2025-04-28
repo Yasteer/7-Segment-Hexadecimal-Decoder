@@ -2,8 +2,6 @@
 This project implements a 4-bit binary to hexadecimal decoder using basic logic gates to drive a common anode 7-segment display.
 It was designed, built, and simulated using CircuitVerse.org.
 
-> 🛠️ This project forms part of my Portfolio of Evidence in Electronic Engineering.
-
 ---
 
 ## ✨ Features
@@ -14,6 +12,8 @@ It was designed, built, and simulated using CircuitVerse.org.
 - 🧠 Optimized logic design to reduce unnecessary gate usage.
 
 - 🖥️ Fully tested and simulated using CircuitVerse.
+
+![Circuit Demo](AnalogSpeedControllerDemo.gif)
 
 ---
 
@@ -111,6 +111,8 @@ git clone https://github.com/Yasteer/7-Segment-Hexadecimal-Decoder.git
 
 > Further optimize logic gates using Karnaugh Maps.
 
+> Simulate circuit in Tinkercad. 
+
 > Construct and test the design on a physical breadboard with ICs.
 
 ---
@@ -121,3 +123,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## 🎯
+
+> 🛠️ This project forms part of my Portfolio of Evidence in Electronic Engineering.
